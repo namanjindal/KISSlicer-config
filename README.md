@@ -25,8 +25,10 @@ KISSlicer Configuration for 3D Printers for ECE OpenLab
 3. Start KISSlicer. The configuration files from above are suitable for both MakerGear M2s found in OpenLab, but feel free to make change
 
 If you need some help with KISSlicer, older manuals for the program can be found at 
+
  * Quickstart Guide: http://www.kisslicer.com/uploads/1/5/3/8/15381852/kisslicer_quick_reference_en.pdf
  * v1.5 Manual: http://www.kisslicer.com/uploads/1/5/3/8/15381852/kisslicer_manual_en_201015.pdf
+ 
 Although they are a bit old, they should still be suitable for v1.6
 
 ## Notes/FAQ
