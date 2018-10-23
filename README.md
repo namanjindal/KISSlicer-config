@@ -6,13 +6,21 @@ KISSlicer Configuration for 3D Printers for ECE OpenLab
 1. Download `_materials`,  `_styles`, `_printers` and `_supports` folders from this repo for the configuration. _Or just download the repo as a zip_...
 2. Download KISSlicer v1.6.3 Free for your computer from http://www.kisslicer.com/download-v16-stable.html and extract the exectuable to the same directory as where you downloaded the above configuration folders.
   Your folder structure should look like:
-    - KISSlicer (root directory)
-        - KISSlicer64.exe (Or another executable for linux/macOS)
-        - _materials
-        - _printers
-        - _styles
-        - _supports
-        
+    ```                                
+      ├── KISSlicer64.exe (Or another executable on Linux/macOS)                
+      ├── _KS_backup_profiles.ini (Optional)        
+      ├── _materials                      
+      │   ├── ABS - Generic.ini           
+      │   └── PLA - Generic.ini           
+      ├── _printers                       
+      │   └── MakerGear M2.ini            
+      ├── _styles                         
+      │   ├── High Quality, Low Speed.ini 
+      │   └── Med Quality, Med Speed.ini  
+      └── _supports                       
+          ├── Dense, Skirt.ini            
+          └── None, Skirt.ini             
+    ``` 
 3. Start KISSlicer. The configuration files from above are suitable for both MakerGear M2s found in OpenLab, but feel free to make change
 
 If you need some help with KISSlicer, older manuals for the program can be found at 
