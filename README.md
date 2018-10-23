@@ -37,4 +37,4 @@ Although they are a bit old, they should still be suitable for v1.6
  
  ## Customizations
  
- * [__RECOMMENDED__]One of the most important settings is the actual filament diameter of your filament. Although the MakerGear M2s use nominal 1.75 mm diameter filament, actual filament you buy can vary by 0.1 mm or more. Use a caliper (you can check one out, ask a monitor) and enter the measured diameter into KISSlicer material configuration so it can better estimate the filament extrusion. The default values are 1.75.  
+ * [__RECOMMENDED__] One of the most important settings is using actual filament diameter of your filament. Although the MakerGear M2s use nominal 1.75 mm diameter filament, actual filament you buy can vary by 0.1 mm or more. Use a caliper (you can check one out, ask a monitor) and enter the measured diameter into KISSlicer material configuration so it can better estimate the filament extrusion. The default values are 1.75, but don't assume this will be the case for you!  
