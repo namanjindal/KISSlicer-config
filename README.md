@@ -6,7 +6,8 @@ KISSlicer Configuration for 3D Printers for ECE OpenLab
 1. Download `_materials`,  `_styles`, `_printers` and `_supports` folders from this repo for the configuration. _Or just download the repo as a zip_...
 2. Download KISSlicer v1.6.3 Free for your computer from http://www.kisslicer.com/download-v16-stable.html and extract the exectuable to the same directory as where you downloaded the above configuration folders.
   Your folder structure should look like:
-    ```                                
+    ```
+     KISSlicer
       ├── KISSlicer64.exe (Or another executable on Linux/macOS)                
       ├── _KS_backup_profiles.ini (Optional)        
       ├── _materials                      
